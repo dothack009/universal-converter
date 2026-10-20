@@ -7,7 +7,7 @@
 <p align="center">
   Convert <b>video, audio, images, documents, ebooks and archives</b>, right on your computer.<br>
   Native apps for <b>Mac</b> and <b>Windows</b>. Nothing is uploaded, there are no file-size limits, and it works offline.<br>
-  The everyday formats are <b>free</b>. Every other format, tool and setting is <b>Pro</b>, unlocked with a license code.
+  The everyday formats are <b>free</b>. <b>Pro</b> (৳200, lifetime) unlocks every other format, tool and setting.
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
   &nbsp;·&nbsp; <a href="#install">Install</a>
   &nbsp;·&nbsp; <a href="#how-to-use">How to use</a>
   &nbsp;·&nbsp; <a href="#free-and-pro">Free &amp; Pro</a>
+  &nbsp;·&nbsp; <a href="https://www.supportkori.com/mohammad989/extras/universal-converter-pro-lifetime-license-mac-windows-198n">Get Pro</a>
   &nbsp;·&nbsp; <a href="#faq">FAQ</a>
 </p>
 
@@ -31,7 +32,7 @@
 - **10 tools in one app**, like the online converters, but private:
   video, audio, image, document, ebook and archive converters, device and web-service presets,
   file compression and image to text (OCR).
-- **Free and Pro.** MP4, MOV, MP3, WAV, JPG, PNG, PDF, DOCX, ZIP and more are free forever. A Pro license code unlocks
+- **Free and Pro.** MP4, MOV, MP3, WAV, JPG, PNG, PDF, DOCX, ZIP and more are free forever. A Pro license key unlocks
   every other format, tool and setting. See [Free & Pro](#free-and-pro).
 - **Drop and convert.** Pick a format, drop a file on the window and press **Convert**. With Pro, convert many files at once.
 - **Save where you want (Pro).** Free conversions are saved next to the original. With Pro, choose a folder each time,
@@ -60,7 +61,7 @@
 ## Free and Pro
 
 The everyday conversions are **free forever**, with no file-size limits and no watermark.
-A **Pro license code** unlocks everything else. Pro formats and settings show a 🔒 lock, and the Pro tools an orange **PRO** tag,
+A **Pro license key** unlocks everything else. Pro formats and settings show a 🔒 lock, and the Pro tools an orange **PRO** tag,
 until you unlock them.
 
 | Tool | Free | Pro |
@@ -84,12 +85,13 @@ until you unlock them.
   </tr>
 </table>
 
-**Get a code.** Message [MOHAMMAD-HASAN on Instagram](https://www.instagram.com/kam_rul_69/). Codes look like `ABCDE-FGHJK`.
+**Get Pro.** Buy it on [SupportKori](https://www.supportkori.com/mohammad989/extras/universal-converter-pro-lifetime-license-mac-windows-198n) for ৳200 (bKash, Nagad, Rocket or card). You get your license key right away,
+on the page and by email. You can also message [MOHAMMAD-HASAN on Instagram](https://www.instagram.com/kam_rul_69/) for a code.
 
-**Activate it.** Click **Unlock Pro** at the bottom of the sidebar (on Mac it's also in the app menu), enter your email and the code,
+**Activate it.** Click **Unlock Pro** at the bottom of the sidebar (on Mac it's also in the app menu), enter your email and the key,
 and click **Activate**. You need an internet connection for this step only. Clicking anything with a 🔒 opens the same window.
 
-<img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: what Pro includes, an email box, a license code box, and Activate">
+<img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: what Pro includes, an email box, a license key box, and Activate">
 
 **How licenses work**
 
@@ -149,7 +151,7 @@ Get the file for your computer from **[Releases](../../releases/latest)**.
 3. Drop files on the window (or press **Choose Files…**).
 4. Open **Settings** if you want to change size, quality, cut and so on.
 5. Press **Convert**. Free conversions are saved next to the original; with Pro you choose where to save.
-6. Anything with a 🔒 is Pro: click it once and enter your license code ([Free & Pro](#free-and-pro)).
+6. Anything with a 🔒 is Pro: click it once and enter your license key ([Free & Pro](#free-and-pro)).
 
 ## FAQ
 
@@ -172,7 +174,7 @@ The text and paragraphs come across, but complex layouts, tables and pictures in
 On Mac, pick the language under Settings. On Windows, text recognition uses the languages installed in
 **Settings → Time & language → Language**.
 
-**My license code says "already active on another device".**
+**My license key says "already active on another device".**
 Each code works on one computer at a time. Remove it on the other computer first (**Pro → Remove License**), or message
 [MOHAMMAD-HASAN](https://www.instagram.com/kam_rul_69/) to move it.
 
