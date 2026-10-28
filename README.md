@@ -88,15 +88,15 @@ until you unlock them.
 **Get Pro.** Buy it on [SupportKori](https://www.supportkori.com/mohammad989/extras/universal-converter-pro-lifetime-license-mac-windows-198n) for ৳200 (bKash, Nagad, Rocket or card). You get your license key right away,
 on the page and by email. You can also message [MOHAMMAD-HASAN on Instagram](https://www.instagram.com/kam_rul_69/) for a code.
 
-**Activate it.** Click **Unlock Pro** at the bottom of the sidebar (on Mac it's also in the app menu), enter your email and the key,
-and click **Activate**. You need an internet connection for this step only. Clicking anything with a 🔒 opens the same window.
+**Activate it.** Click **Unlock Pro** at the top right of the window (on Mac it's also in the app menu), enter your email and the key,
+and click **Unlock**. You need an internet connection for this step only. Clicking anything with a 🔒 opens the same window.
 
-<img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: what Pro includes, an email box, a license key box, and Activate">
+<img src="docs/pro-unlock.png" width="820" alt="The Unlock Pro window: what Pro includes, an email box, a license key box, and Unlock">
 
 **How licenses work**
 
 - **One code, one computer.** A code is activated on one Mac or PC at a time. Trying it on a second computer shows which device it's active on.
-- **New computer?** On the old one, click **Pro** and then **Remove License**, then activate the same code on the new one.
+- **New computer?** On the old one, click **Pro** (top right) and then **Remove License**, then activate the same code on the new one.
   If the old computer is gone, message MOHAMMAD-HASAN and the code will be moved for you.
 - **Works offline.** After activation Pro keeps working without internet. About once a day the app quietly checks that the code is still yours.
 - **What's sent.** Activation sends the code, your email, an anonymous device ID (a one-way fingerprint of your computer's hardware ID, not the ID itself), your computer's name and its type (for example "Mac · MacBook Air (M2, 2022) · macOS 26.0" or "Windows 11 · Dell XPS 13"). That's used only to manage your license. Your files are never sent.
