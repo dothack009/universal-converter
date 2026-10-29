@@ -140,9 +140,10 @@ Get the file for your computer from **[Releases](../../releases/latest)**.
 
 ### Windows (Windows 10 or 11, 64-bit)
 
-1. Download `Universal-Converter-<version>.exe` and put it wherever you like (Desktop, Documents…). There's nothing to install.
+1. Download `Universal-Converter-<version>.exe` (the installer) and open it.
 2. If **"Windows protected your PC"** appears, click **More info → Run anyway**. You only do this once.
-3. Setup starts by itself on first launch. It downloads the free conversion engines (about 150 MB), once.
+3. Click **Next**, choose where to install it (or keep the suggested folder) and click **Install**. It doesn't need administrator rights, and the conversion engines are included, so there's nothing else to download.
+4. Open it from the desktop or the Start menu. To remove it, use **Settings → Apps → Universal Converter → Uninstall** (your Pro license stays, for a later reinstall).
 
 ## How to use
 
